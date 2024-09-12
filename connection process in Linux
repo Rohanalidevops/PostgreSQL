@@ -13,8 +13,6 @@ Check if PostgreSQL Service is Running
   -------------------------
 First, switch to the postgres user:
 
-bash
-Copy code
 sudo -i -u postgres
     psql --version
 psql (PostgreSQL) 13.3
